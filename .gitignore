@@ -1,0 +1,21 @@
+# Build directories
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
